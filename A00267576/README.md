@@ -6,7 +6,7 @@
 
 ## Descripción
 
-Se realizó el Fork y el New Pull Request en GitHub. Se subió la presentación sobre hecho historico delos sistemas operativos.
+Se realizó el Fork y el New Pull Request en GitHub. Se subió la presentación sobre hecho historico de los sistemas operativos.
 
 ## Referencias
 
